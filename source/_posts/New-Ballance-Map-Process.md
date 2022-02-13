@@ -15,8 +15,8 @@ Dream Of Space-time
 | 小节 | 进度 |
 | - | - |
 | 1 | 完成（虽然就没啥东西） |
-| 2 | 完成，未添加装饰 |
-| 3 | 2/3，未添加装饰 |
+| 2 | 完成|
+| 3 | 完成|
 | 45678 | 还没做（ |
 
 # Images
@@ -25,6 +25,7 @@ Dream Of Space-time
 
 # Log
 倒腾了半天试图在Mac上制图，手机仅有的Windows机器是公用的（（（
+好，感谢Ballancebug的线下制图辅导（
 ***
 下面是占位图片（
 ![占位图片](https://yunling.de/img/2022/02/07/New-Ballance-Map-Process/IMG_3821.JPG)
