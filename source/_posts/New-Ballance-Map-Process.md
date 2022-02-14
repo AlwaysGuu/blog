@@ -33,8 +33,6 @@ Dream Of Space-time
 
 
 # Log
-倒腾了半天试图在Mac上制图，手机仅有的Windows机器是公用的（（（
-好，感谢Ballancebug的线下制图辅导（
-***
-下面是占位图片（
-![占位图片](https://yunling.de/img/2022/02/07/New-Ballance-Map-Process/IMG_3821.JPG)
+倒腾了半天试图在Mac上制图，手机仅有的Windows机器是公用的  
+好，感谢Ballancebug的线下制图辅导（  
+稍微有花了点制图流程，效率应该能上去点
