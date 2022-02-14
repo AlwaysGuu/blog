@@ -30,7 +30,6 @@ Dream Of Space-time
 ![3](https://yunling.de/img/2022/02/07/New-Ballance-Map-Process/3.png)
 ***
 ![4](https://yunling.de/img/2022/02/07/New-Ballance-Map-Process/4.png)
-***
 
 
 # Log
