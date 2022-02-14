@@ -17,11 +17,21 @@ Dream Of Space-time
 | 1 | 完成（虽然就没啥东西） |
 | 2 | 完成|
 | 3 | 完成|
-| 45678 | 还没做（ |
+| 4 | 1/3|
+| 5678 | 还没做（ |
 
 # Images
-目前仅有的一张在3ds max的截图（
 ![截图1](https://yunling.de/img/2022/02/09/1.png)
+***
+![1](https://yunling.de/img/2022/02/07/New-Ballance-Map-Process/1.png)
+***
+![2](https://yunling.de/img/2022/02/07/New-Ballance-Map-Process/2.png)
+***
+![3](https://yunling.de/img/2022/02/07/New-Ballance-Map-Process/3.png)
+***
+![4](https://yunling.de/img/2022/02/07/New-Ballance-Map-Process/4.png)
+***
+
 
 # Log
 倒腾了半天试图在Mac上制图，手机仅有的Windows机器是公用的（（（
