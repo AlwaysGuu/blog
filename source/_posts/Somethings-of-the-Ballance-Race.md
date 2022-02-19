@@ -18,5 +18,5 @@ Ballance吧赛使用了@Swung0x48开发的Ballance联机mod进行游戏，地图
 ### 放肆的作弊事件
 放肆在12-8被变木发现了他使用cheat功能的F1按键向上移动球的功能，最后经历一部分的扯皮之后，成绩取消。
 ***
-总之，应该没啥东西了，下面是占位图片s
+总之，应该没啥东西了，下面是占位图片
 ![占位图片](https://yunling.de/img/2022/02/07/Somethings-of-the-Ballance-Race/2.jpeg)
